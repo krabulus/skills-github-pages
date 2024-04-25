@@ -1,7 +1,8 @@
 ---
-title: Welcome to my blog
+title: About cookies
+date: 2024-04-25
 ---
-# Asimple Cookie recipe
+# A simple Cookie recipe
 ### What you need:
 225g butter, softened
 110g caster sugar
